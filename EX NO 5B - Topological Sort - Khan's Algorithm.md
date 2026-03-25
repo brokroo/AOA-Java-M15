@@ -31,8 +31,8 @@ The program should detect if a valid release schedule exists or if cyclic depend
 ```java
 /*
 Program to implement Topological Sort
-Developed by: MUKESH R
-Register Number: 212223240100
+Developed by: SANJITH R
+Register Number: 212223230191
 */
 
 import java.util.*;
